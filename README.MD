@@ -5,6 +5,9 @@ This is a web application built using HTML, CSS, Javascript to visualize classic
 
 
 ## Purpose
+**Live-** [sorting visualizer](https://itssahotra.github.io/sortting_visualizer/) 
+
+**Code-** [sort visualizer code](https://github.com/itssahotra/sortting_visualizer)
 
 I made this sorting visualizer web application to improve my skills more in
 HTML, CSS, and JS. And to help the beginners in programming to gain more knowledge and understanding on sorting algorithms by visualizing them.
